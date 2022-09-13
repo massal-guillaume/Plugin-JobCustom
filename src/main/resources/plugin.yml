@@ -1,0 +1,8 @@
+name: JobsCustom
+version: '${project.version}'
+main: me.massal.jobscustom.JobsCustom
+authors: [ Massal_Guillaume ]
+description: Simple Custom Jobs plugin
+api-version: 1.8.8
+commands:
+  jobs:

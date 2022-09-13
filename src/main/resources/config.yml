@@ -1,0 +1,14 @@
+sql.hostname: sql2.minestrator.com
+sql.port: 3306
+sql.database: minesr_Q6gP31Vv
+sql.username: minesr_Q6gP31Vv
+sql.password: kHOf4IAbIXzNEn3N
+sql.tablename: tablemetier
+
+#Plugin de farm avec trois different metier  : Chasseur Farmer et Mineur
+#Necessite une connection a une base de donnée
+#Reward des metiers avec des item custom
+#Drop de fragment de clee pendant le farm qui peuvent s'assembler pour former une
+#clee complete utilisable pour deverouille des coffres
+
+#Plugin en cours de dev pour une version custom ou des requetes d'amelioration :
